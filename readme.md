@@ -17,3 +17,5 @@ todo:
 
 - [ ] stemming
 - [ ] many words
+- [ ] http server
+- [ ] frontend
